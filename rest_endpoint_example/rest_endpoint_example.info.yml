@@ -1,0 +1,5 @@
+type: module
+name: Rest Endpoint Example
+description: 'Example code on how to setup a REST endpoint plugin'
+package: Example
+core_version_requirement: ^9 || ^10
